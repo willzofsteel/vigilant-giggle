@@ -18,5 +18,8 @@
     "react-dom": "^15.3.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.15.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
   }
 }
