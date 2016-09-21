@@ -1,11 +1,12 @@
 import React from "react"
 import ReactDOM from "react-dom"
+import UploadForm from "./components/upload_form/upload_form"
 
 class Layout extends React.Component {
   render() {
     return (
-        <h1>Hello again, guess you need the inline switch for webpack-dev-server</h1>
-        );
+        <UploadForm/>
+    );
   }
 }
 
